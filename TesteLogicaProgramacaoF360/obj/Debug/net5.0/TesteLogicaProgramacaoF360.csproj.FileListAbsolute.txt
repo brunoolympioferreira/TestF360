@@ -1,0 +1,15 @@
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\obj\Debug\net5.0\TesteLogicaProgramacaoF360.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\obj\Debug\net5.0\TesteLogicaProgramacaoF360.AssemblyInfoInputs.cache
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\obj\Debug\net5.0\TesteLogicaProgramacaoF360.AssemblyInfo.cs
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\obj\Debug\net5.0\TesteLogicaProgramacaoF360.csproj.CoreCompileInputs.cache
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\bin\Debug\net5.0\TesteLogicaProgramacaoF360.exe
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\bin\Debug\net5.0\TesteLogicaProgramacaoF360.deps.json
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\bin\Debug\net5.0\TesteLogicaProgramacaoF360.runtimeconfig.json
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\bin\Debug\net5.0\TesteLogicaProgramacaoF360.runtimeconfig.dev.json
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\bin\Debug\net5.0\TesteLogicaProgramacaoF360.dll
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\bin\Debug\net5.0\ref\TesteLogicaProgramacaoF360.dll
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\bin\Debug\net5.0\TesteLogicaProgramacaoF360.pdb
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\obj\Debug\net5.0\TesteLogicaProgramacaoF360.dll
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\obj\Debug\net5.0\ref\TesteLogicaProgramacaoF360.dll
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\obj\Debug\net5.0\TesteLogicaProgramacaoF360.pdb
+C:\Dev\TesteLogicaProgramacaoF360\TesteLogicaProgramacaoF360\obj\Debug\net5.0\TesteLogicaProgramacaoF360.genruntimeconfig.cache

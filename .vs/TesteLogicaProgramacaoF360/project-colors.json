@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a84fd646-cf9d-4232-9b06-c8a975434a54": {
+      "ProjectGuid": "a84fd646-cf9d-4232-9b06-c8a975434a54",
+      "DisplayName": "TesteLogicaProgramacaoF360",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
