@@ -40,13 +40,10 @@ namespace TesteLogicaProgramacaoF360
 
             //Exercício 2
 
-            var texto = Texto.TextoB();
-            var palavrasTexto = texto.Split(' ');
-
             List<string> verbos = new();
             List<string> primeiraPessoa = new();
 
-            foreach (var item in palavrasTexto)
+            foreach (var item in palavrasTextoB)
             {
                 if (item.Length >= 8 && (item.EndsWith('s') || item.EndsWith('l') || item.EndsWith('f') || item.EndsWith('w') || item.EndsWith('k')))
                 {
